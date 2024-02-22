@@ -12,7 +12,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fredjuma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fredjuma" /></a></p><br><br>
 
 
-- 📫 My portfolio: https://jumaportfolio.netlify.app/
+📫 My portfolio: https://jumaportfolio.netlify.app/
  [![](https://visitcount.itsvg.in/api?id=Fred&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
  ![fredjuma007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fredjuma007&theme=shades-of-purple&hide_border=false)

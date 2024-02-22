@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @fredjuma007
-- 🌱 Certified software developer
-
+<h3 align="center">Hi i'm Fred Juma</h3>
 <h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>

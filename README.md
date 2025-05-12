@@ -13,8 +13,7 @@
 <br><br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21EVKEC)
-
- [![](https://visitcount.itsvg.in/api?id=Fred&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Fred&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
  ![fredjuma007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fredjuma007&theme=shades-of-purple&hide_border=false)
  

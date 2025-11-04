@@ -1,83 +1,77 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Fred+Juma;Frontend+%26+Full+Stack+Developer;Building+Digital+Excellence" alt="Typing SVG" />
+
+# 🚀 Fred Juma
+
+**Frontend & Full Stack Developer | UI/UX Enthusiast**
+
+Building elegant, performant digital experiences with meticulous attention to detail.
+
+[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/fredjuma) • [Twitter](https://twitter.com/yourhandle)
+
 </div>
+
+---
+
+## 💫 About Me
+
+I'm a passionate frontend and full stack developer crafting pixel-perfect interfaces that seamlessly blend design and functionality. With expertise across modern web technologies, I specialize in building responsive, accessible, and performant applications that users love to interact with. I turn ideas into reality through clean code and creative problem-solving.
+
+---
+
+## 🔥 My Coding Languages
 
 <div align="center">
-  
-### 🚀 Crafting Elegant Digital Experiences
 
-*Blending pixel-perfect design with robust full-stack architecture*
-
-[Portfolio](https://fredjuma.dev) • [LinkedIn](https://linkedin.com/in/frederdjuma) • [Twitter](https://twitter.com/frederdjuma)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fredjuma007&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/icons/code.svg" width="40" height="40" align="center" /> About Me
+## 🌟 GitHub Streaks & Stats
 
-> I'm a passionate developer building pixel-perfect interfaces that seamlessly blend design and functionality. A full-stack specialist creating responsive, accessible, and performant applications that users love to interact with.
+<div align="center">
 
-**What I Do:**
-- 🎨 **Frontend Magic** - React, Next.js, TypeScript, Tailwind CSS
-- 🔧 **Full Stack** - Node.js, Express, MongoDB, Firebase
-- ⚡ **Performance** - Optimized, responsive, lightning-fast applications
-- 🎯 **Problem Solving** - Clean code, best practices, scalable architecture
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredjuma007&theme=dark&hide_border=true)](https://github.com/fredjuma007)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredjuma007&show_icons=true&locale=en&theme=dark&hide_border=true)](https://github.com/fredjuma007)
+
+</div>
 
 ---
 
-## 💻 Tech Arsenal
+## 🛠️ Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 ---
 
-## 📊 My Coding Languages
+## 🎯 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frederdjuma&show_icons=true&theme=dark&layout=compact&card_width=500" alt="Most Used Languages" />
+
+[📧 Email](mailto:your@email.com) • [🔗 LinkedIn](https://linkedin.com/in/fredjuma){:target="_blank"} • [🐦 Twitter](https://twitter.com/yourhandle){:target="_blank"} • [💼 Portfolio](https://yourportfolio.com){:target="_blank"}
+
+</div>
+
+I love collaborating on interesting projects and discussing the craft of web development.
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fredjuma)
+
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/icons/fire.svg" width="40" height="40" align="center" /> GitHub Streaks & Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=frederdjuma&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frederdjuma&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fred's GitHub Stats" />
-</div>
+Made with ❤️ by Fred Juma
 
----
-
-## 🎯 Portfolio Highlights
-
-My portfolio showcases a collection of full-stack projects demonstrating expertise in frontend development, UX design, and backend integration.
-
-**[→ Explore My Work](https://fredjuma.dev)**
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on exciting projects and discussing web development innovations.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frederdjuma)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frederdjuma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://fredjuma.dev)
-
----
-
-<div align="center">
-  <a href="https://buymeacoffee.com/frederdjuma">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
-  </a>
 </div>

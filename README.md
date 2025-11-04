@@ -62,22 +62,22 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🩺 DocFlow</h3>
-      <img src="https://via.placeholder.com/500x280.png?text=DocFlow+Preview" alt="DocFlow Preview" width="100%" />
-      <p>A full-stack telemedicine app with real-time scheduling and patient management.</p>
+      <h3>📚 Reading Circle 254</h3>
+      <img width="1912" height="902" alt="Reading Circle 254 Preview" src="https://github.com/user-attachments/assets/d1e84d4f-e9ac-4af3-91fa-ced1cb2f6eaa" />
+      <p>A collaborative book club platform powered by AI for reviews, discussions, and recommendations.</p>
       <p>
-        <a href="https://docflow.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
+        <a href="https://readingcircle.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit%20Site-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Site" />
         </a>
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>📚 Reading Circle 254</h3>
-      <img src="https://via.placeholder.com/500x280.png?text=Reading+Circle+254+Preview" alt="Reading Circle 254 Preview" width="100%" />
-      <p>A collaborative book club platform powered by AI for reviews, discussions, and recommendations.</p>
+      <h3>⚡ FlashRead</h3>
+      <img width="1891" height="907" alt="FlashRead Preview" src="https://github.com/user-attachments/assets/e137a0df-b574-4c7c-9058-187b9b16f949" />
+      <p>An AI-powered article summarizer that lets you chat with your summaries and edit them in real-time.</p>
       <p>
-        <a href="https://readingcircle.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Site-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Site" />
+        <a href="https://flashread2.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
         </a>
       </p>
     </td>

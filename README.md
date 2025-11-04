@@ -8,7 +8,7 @@
 
 *Blending pixel-perfect design with robust full-stack architecture*
 
-[Portfolio](maportfolio.netlify.appv) • [LinkedIn](https://www.linkedin.com/in/fredjuma8/) • [Twitter](https://x.com/Fredjuma8Rennox)
+[Portfolio](maportfolio.netlify.app) • [LinkedIn](https://www.linkedin.com/in/fredjuma8/) • [Twitter](https://x.com/Fredjuma8Rennox)
 
 </div>
 

@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/icons/code.svg" width="40" height="40" align="center" /> About Me
+##  About Me
 
 > I'm a passionate developer building pixel-perfect interfaces that seamlessly blend design and functionality. A full-stack specialist creating responsive, accessible, and performant applications that users love to interact with.
 
@@ -46,11 +46,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/icons/fire.svg" width="40" height="40" align="center" /> GitHub Streaks & Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fredjuma007&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fredjuma007&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fred's GitHub Stats" />

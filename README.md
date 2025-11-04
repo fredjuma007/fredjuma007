@@ -53,7 +53,42 @@
 
 ---
 
+---
+
+## 🧩 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🩺 DocFlow</h3>
+      <img src="https://via.placeholder.com/500x280.png?text=DocFlow+Preview" alt="DocFlow Preview" width="100%" />
+      <p>A full-stack telemedicine app with real-time scheduling and patient management.</p>
+      <p>
+        <a href="https://docflow.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Reading Circle 254</h3>
+      <img src="https://via.placeholder.com/500x280.png?text=Reading+Circle+254+Preview" alt="Reading Circle 254 Preview" width="100%" />
+      <p>A collaborative book club platform powered by AI for reviews, discussions, and recommendations.</p>
+      <p>
+        <a href="https://readingcircle.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Visit%20Site-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Site" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ## 🎯 Portfolio Highlights
+
 
 My portfolio showcases a collection of full-stack projects demonstrating expertise in frontend development, UX design, and backend integration.
 

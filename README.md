@@ -57,7 +57,7 @@
 
 My portfolio showcases a collection of full-stack projects demonstrating expertise in frontend development, UX design, and backend integration.
 
-**[→ Explore My Work](https://fredjuma.dev)**
+**[→ Explore My Work](https://jumaportfolio.netlify.app/)**
 
 ---
 
@@ -65,9 +65,9 @@ My portfolio showcases a collection of full-stack projects demonstrating experti
 
 I'm always interested in collaborating on exciting projects and discussing web development innovations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frederdjuma)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frederdjuma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://fredjuma.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredjuma8/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Fredjuma8Rennox)
+[![My Website](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://circuits-chapters.vercel.app/)
 
 ---
 

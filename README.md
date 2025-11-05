@@ -108,7 +108,7 @@ I'm always interested in collaborating on exciting projects and discussing web d
 ---
 
 <div align="center">
-  <a href="https://buymeacoffee.com/frederdjuma">
+  <a href="https://studio.buymeacoffee.com/dashboard">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
   </a>
 </div>

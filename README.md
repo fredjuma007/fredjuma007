@@ -63,7 +63,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>GreenCeo</h3>
-      <img width="1912" height="902" alt="Reading Circle 254 Preview" src="https://github.com/user-attachments/assets/d1e84d4f-e9ac-4af3-91fa-ced1cb2f6eaa" />
+      <img width="1912" height="902" alt="greenceo Preview" <img width="1871" height="904" alt="Image" src="https://github.com/user-attachments/assets/24b94cc8-e40d-4eea-a0de-5ca91cca2e58" />
       <p>GREENCEO is a purpose-driven environmental enterprise. Partnering with under-resourced community groups to co-design transformative projects with lasting environmental and social impact.</p>
       <p>
         <a href="https://www.greenceo.co.ke/" target="_blank">

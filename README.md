@@ -62,11 +62,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📚 Reading Circle 254</h3>
+      <h3>GreenCeo</h3>
       <img width="1912" height="902" alt="Reading Circle 254 Preview" src="https://github.com/user-attachments/assets/d1e84d4f-e9ac-4af3-91fa-ced1cb2f6eaa" />
-      <p>A collaborative book club platform powered by AI for reviews, discussions, and recommendations.</p>
+      <p>GREENCEO is a purpose-driven environmental enterprise. Partnering with under-resourced community groups to co-design transformative projects with lasting environmental and social impact.</p>
       <p>
-        <a href="https://readingcircle.vercel.app/" target="_blank">
+        <a href="https://www.greenceo.co.ke/" target="_blank">
           <img src="https://img.shields.io/badge/Visit%20Site-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Site" />
         </a>
       </p>
